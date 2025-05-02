@@ -23,22 +23,16 @@ const Nav = () => {
           <a href="/">Inicio</a>
         </li>
         <li>
-          <a href="/">Sobre nosotros</a>
+          <a href="/about">Sobre nosotros</a>
         </li>
         <li>
-          <a href="/">Servicios</a>
+          <a href="/Order">Menú</a>
         </li>
         <li>
-          <a href="/">Menú</a>
+          <a href="/booking">Reservas</a>
         </li>
         <li>
-          <a href="/">Reservas</a>
-        </li>
-        <li>
-          <a href="/booking">Pedir en línea</a>
-        </li>
-        <li>
-          <a href="/">Iniciar sesión</a>
+          <a href="/login">Iniciar sesión</a>
         </li>
       </ul>
     </nav>
